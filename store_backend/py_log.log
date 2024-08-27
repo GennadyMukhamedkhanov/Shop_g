@@ -1,0 +1,3 @@
+2024-08-26 21:00:01,381 INFO request method GET
+2024-08-26 21:00:01,381 INFO request path_info /api/country/
+2024-08-26 21:00:01,411 INFO response status_code 200
